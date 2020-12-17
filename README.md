@@ -32,7 +32,7 @@ There are 3 notebooks available here with work related to the above questions.  
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://nikdimi.medium.com/what-can-we-found-from-the-boston-airbnb-dataset-f2507e75b57c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
