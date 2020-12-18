@@ -44,21 +44,21 @@ Must give credit to Airbnb Inside for the data.  You can find the Licensing for 
 1. Business Understanding
 
 Who host has the most listings and what is the average price of the host?
-Which of the host has higher metrics in terms of response time, acceptanse rate, and response rate?
+Which of the host has higher metrics in terms of response time, acceptance rate, and response rate?
 Which neighbourhoods are the most expensive and which the cheapest ones?
 Which types of property, room and bed are having higher price?
 How well can we predict a listing's salary? 
 2. Data Understanding
 
-Here we used the Boston AirBnb data to attempt to answer our questions of interest. In this case, using the data to help us arrive at our questions of interest. The complete dataset has three CSV files, we used listing CSV to answer our question since it contains much more information regarding listings, hosts, price, location.
+Here we used the Boston AirBnB data to attempt to answer our questions of interest. In this case, using the data to help us arrive at our questions of interest. The complete dataset has three CSV files, we used listing CSV to answer our question since it contains much more information regarding listings, hosts, price, location.
 
 3. Prepare Data
 
-Here we is the stage where we need to prepare our data to answer our questions. We have found in columns missing values, and fillen with the median, we have change data type in the needed columns, and removed symbols from data points. Also we worked with categorical variables and transform them to dummy variables with encoding.
+Here we are the stage where we need to prepare our data to answer our questions. We have found in columns missing values and filled them with the median, we have change data type in the needed columns and removed symbols from data points. Also, we worked with categorical variables and transform them into dummy variables with encoding.
 
 4. Model Data
 
-We were finally able to model the data, but we had some back and forth with step 3. before we were able to build a model that had okay performance. There still may be changes that could be done to improve the model we have in place. From additional feature engineering to choosing a more advanced modeling technique, we did little to test that other approaches were better within this lesson.
+We were finally able to model the data before we were able to build a model that had an okay performance. There still may be changes that could be done to improve the model we have in place. From additional feature engineering to choosing a more advanced modelling technique.
 
 5. Results
 
